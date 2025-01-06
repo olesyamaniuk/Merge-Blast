@@ -8,7 +8,7 @@ $(function () {
     autoplaySpeed: 3500,
     speed: 1000,
     dots: false,
-    centerMode: false,
+    centerMode: true,
     cssEase: 'linear',
     prevArrow: '.gallery__list-left',
     nextArrow: '.gallery__list-right',
